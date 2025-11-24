@@ -13,5 +13,4 @@
 TypeScript • React • Node.js • Docker • Proxmox  
 
 ---
-Show some ![heart](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Heart.png)
- by starring a repo or checking out my website @ [s0fts0rr0w.com](https://s0fts0rr0w.com)
+Show some :heart: by starring a repo or checking out my website @ [s0fts0rr0w.com](https://s0fts0rr0w.com)
