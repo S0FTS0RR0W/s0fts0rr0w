@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Charlie 👋
 
-<!--
-**S0FTS0RR0W/s0fts0rr0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building bots and tools that are clear and useful  
+- Repurposing hardware into shrine nodes  
+- Working on [walls.s0fts0rr0w.com](https://walls.s0fts0rr0w.com) → PixelHaven  
 
-Here are some ideas to get you started:
+## Projects
+- Summarai — Discord bot for summaries  
+- Shrine Core — homelab orchestration  
+- Walls — wallpaper site backend  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+TypeScript • React • Node.js • Docker • Proxmox  
+
+---
+Show some ❤️ by starring a repo or checking out my website @ [s0fts0rr0w.com](https://s0fts0rr0w.com)
