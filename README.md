@@ -3,7 +3,7 @@
 - Lover of Windows Aero
 - Building bots and tools that are clear and useful  
 - Repurposing hardware into shrine nodes  
-- Working on [walls.s0fts0rr0w.com](https://walls.s0fts0rr0w.com) → PixelHaven  
+- Working on [s0fts0rr0w.com](https://s0fts0rr0w.com) → New Portfolio
 
 ## Projects
 - Summarai — Discord bot for summaries  
