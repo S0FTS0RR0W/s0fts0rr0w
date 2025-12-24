@@ -11,7 +11,7 @@
 - Walls — wallpaper site backend  
 
 ## Tools
-TypeScript • React • Node.js • Docker • Proxmox  
+TypeScript • React • Node.js • Docker • Proxmox • Astro
 
 ---
 Show some :heart: by starring a repo or checking out my website @ [s0fts0rr0w.com](https://s0fts0rr0w.com)
